@@ -95,6 +95,7 @@ body{
     /* border: 1px solid black; */
     position: relative;
     top:48px;
+    z-index: 2;
 }
 .icon-box{
     display: flex;
